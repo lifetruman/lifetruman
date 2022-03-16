@@ -26,7 +26,7 @@
 <div>
 <h4 align="center">🔥 Blog 🔥</h4>
   
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yollangyollang.github.io/)](https://yollangyollang.github.io/)
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://lifetruman.github.io/)](https://lifetruman.github.io/)
 <br>
 <br>
 <br>
@@ -39,7 +39,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yollangyollang&layout=compact)](https://github.com/yollangyollang/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lifetruman&layout=compact)](https://github.com/lifetruman/github-readme-stats)
 
 </div>
 
