@@ -1,14 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=50&section=header&text=Hello%20World.%20Hello%20World.&fontColor=1876fb&fontSize=89&fontAlign=50)
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Hello%20World.%20Hello%20World!%20Hello%20World.&fontColor=100f06&fontSize=89&fontAlignY=50&desc=HELLO%20WORLD%20%20HELLO%20WORLD%20%20HELLO%20WORLD%20%20HELLO%20WORLD%20%20HELLO%20WORLD%20%20HELLO%20WORLD%20%20HELLO%20WORLD%20%20HELLO%20WORLD%20%20HELLO%20WORLD%20%20HELLO%20WORLD%20%20HELLO%20WORLD%20%20HELLO%20WORLD%20%20HELLO%20WORLD%20%20&descAlign=20&descAlignY=70&animation=twinkling)
-
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=50&section=header&text=Hello%20World.%20Hello%20World.&fontColor=1876fb&fontSize=89&fontAlign=50&fontAlignY=90)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <h4 align="center">🔥 To Do 🔥</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-red?style=flat&logo=HTML5&logoColor=ffffff"/>
@@ -27,10 +17,6 @@
 <h4 align="center">🔥 Blog 🔥</h4>
   
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://lifetruman.github.io/)](https://lifetruman.github.io/)
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <div align="center">
