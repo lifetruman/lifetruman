@@ -18,12 +18,7 @@
   
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://lifetruman.github.io/)](https://lifetruman.github.io/)
 <br>
-<br>
 <div align="center">
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yollangyollang)](https://solved.ac/yollangyollang/)
-
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lifetruman&layout=compact)](https://github.com/lifetruman/github-readme-stats)
 
