@@ -1,6 +1,5 @@
 
 <div align="center">
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lifetruman)](https://github.com/anuraghazra/github-readme-stats)
-
+![lifetruman's github stats](https://github-readme-stats.vercel.app/api?username=lifetruman&show_icons=true)
 </div>
